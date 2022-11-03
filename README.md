@@ -8,8 +8,8 @@
 </p>
 
 ## Run App With One Command Line
-run php artisan app:run 
-This command wiill migrate, seed and runserve with 127.0.0.1:8000 
+- Run php artisan app:run 
+- This command wiil migrate, seed and run serve with url 127.0.0.1:8000 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
